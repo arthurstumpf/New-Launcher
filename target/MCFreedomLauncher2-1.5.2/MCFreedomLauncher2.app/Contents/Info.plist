@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+  <dict>
+    <key>CFBundleName</key>
+    <string>MCFreedomLauncher2</string>
+    <key>CFBundleVersion</key>
+    <string>1.5.2</string>
+    <key>CFBundleAllowMixedLocalizations</key>
+    <string>true</string>
+    <key>CFBundleExecutable</key>
+    <string>JavaApplicationStub</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleIconFile</key>
+    <string>icon.icns</string>
+    <key>Java</key>
+    <dict>
+      <key>MainClass</key>
+      <string>org.hopto.org.hopto.energy.Main</string>
+      <key>JVMVersion</key>
+      <string>1.6+</string>
+      <key>ClassPath</key>
+      <array><string>$JAVAROOT/repo/org/hopto/energy/MCFreedomLauncher2/1.5.2/MCFreedomLauncher2-1.5.2.jar</string><string>$JAVAROOT/repo/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar</string><string>$JAVAROOT/repo/com/google/apis/google-api-services-adsense/v1.3-rev154-1.20.0/google-api-services-adsense-v1.3-rev154-1.20.0.jar</string><string>$JAVAROOT/repo/com/google/api-client/google-api-client/1.20.0/google-api-client-1.20.0.jar</string><string>$JAVAROOT/repo/com/google/oauth-client/google-oauth-client/1.20.0/google-oauth-client-1.20.0.jar</string><string>$JAVAROOT/repo/com/google/http-client/google-http-client/1.20.0/google-http-client-1.20.0.jar</string><string>$JAVAROOT/repo/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1.jar</string><string>$JAVAROOT/repo/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar</string><string>$JAVAROOT/repo/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar</string><string>$JAVAROOT/repo/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar</string><string>$JAVAROOT/repo/com/google/http-client/google-http-client-jackson2/1.20.0/google-http-client-jackson2-1.20.0.jar</string><string>$JAVAROOT/repo/com/fasterxml/jackson/core/jackson-core/2.1.3/jackson-core-2.1.3.jar</string><string>$JAVAROOT/repo/com/google/guava/guava-jdk5/13.0/guava-jdk5-13.0.jar</string><string>$JAVAROOT/repo/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar</string><string>$JAVAROOT/repo/commons-io/commons-io/2.4/commons-io-2.4.jar</string><string>$JAVAROOT/repo/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar</string><string>$JAVAROOT/repo/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar</string><string>$JAVAROOT/repo/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar</string><string>$JAVAROOT/repo/com/google/guava/guava/16.0.1/guava-16.0.1.jar</string><string>$JAVAROOT/repo/commons-codec/commons-codec/1.9/commons-codec-1.9.jar</string></array>
+          </dict>
+  </dict>
+</plist>
